@@ -8,3 +8,4 @@ The repo contains exercises and homeworks I have done as part of the courses:
 - [Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com)
 - [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)
 - [A Neural Network in 13 lines of Python (Part 2 - Gradient Descent)](https://iamtrask.github.io/2015/07/27/python-network-part2/)
+- [Stanford Notes](http://cs229.stanford.edu/notes/)
